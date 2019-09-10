@@ -1,0 +1,21 @@
+<header class="header">
+  <div class="container">
+    <div class="header_wrapper">
+      <a class="header_logo" href="{{ '/' | relative_url }}">
+	<div class="header_logo_wrapper">
+          <b>{{ site.short-title }}</b>
+        </div>
+      </a>
+
+      <nav class="header_links">
+        <div class="header_links_wrapper">
+          {% for item in site.navigation %}
+	    <a class="header_link" href="{{ item.link | relative_url }}">
+	      <span>{{ item.name }}</span>
+	    </a>
+          {% endfor %}
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>

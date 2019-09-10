@@ -1,0 +1,24 @@
+# Site settings
+
+title: Computer Graphics
+short-title: SYSUCG
+auther: Liu Jin
+email: liuj285@mail2.sysu.edu.cn
+description: >- # this means to ignore newlines until "baseurl:"
+  Course Homepage for SYSU Computer Graphics (Fall 2019).
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sysucg2019.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  liujinsysu
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Navigations
+navigation:
+  - {name: 'Home', link: '/'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Schedule', link: '/schedule'}
+  - {name: 'Assignment', link: '/assignment'}
+  - {name: 'Transcript', link: '/transcript'}
