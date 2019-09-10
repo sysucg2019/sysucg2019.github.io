@@ -33,7 +33,7 @@ Topics to be covered include most or all of the following: geometric transformat
 </table>
 
 ## FAQs
-- How can I access the resources (slide and assignment)?
+- How can I access the resources (slides and assignments)?
   - Resources will be regularly updated on this site. You can download slides from the page [Schedule](https://sysucg2019.github.io/schedule) and assignments from [Assignment](https://sysucg2019.github.io/assignment).
 
 
