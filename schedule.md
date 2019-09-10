@@ -13,16 +13,16 @@ permalink: /schedule/
   <tr>
     <td> 1 </td>
     <td> Introduction </td>
-    <td> [CG-01-Introduction.pdf](/slides/CG-01-Introduction.pdf) </td>
+    <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-01-Introduction.pdf">CG-01-Introduction.pdf</a> </td>
   </tr>
   <tr>
     <td> 2 </td>
     <td> History and Applications of CG </td>
-    <td> [CG-02-History-and-Applications.pdf](/slides/CG-02-History-and-Applications.pdf) </td>
+    <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-02-History-and-Applications.pdf">CG-02-History-and-Applications.pdf</a> </td>
   </tr>
   <tr>
     <td> 3 </td>
     <td> Brief Review of C++ </td>
-    <td> [CG-03-Brief-Review-of-C++.pdf](/slides/CG-03-Brief-Review-of-C++.pdf) </td>
+    <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-03-Brief-Review-of-C++.pdf">CG-03-Brief-Review-of-C++.pdf</a> </td>
   </tr>
 </table>
