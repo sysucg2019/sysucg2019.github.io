@@ -98,10 +98,10 @@ body {
 
 @media only screen and (min-width: 76em) {
  .header_wrapper {
-   margin: 0em 25em;
+   margin: 0em 20em;
  }
  .content_wrapper {
-   margin: 3.5em 25em;
+   margin: 3.5em 20em;
  } 
 }
 
