@@ -48,8 +48,8 @@ Topics to be covered include most or all of the following: geometric transformat
 Please feel free to contact TA liuj285@mail2.sysu.edu.cn if your have any other questions.
 
 ## References
-[1] Definition: https://en.wikipedia.org/wiki/Computer_graphics  
+[1] Definition: [https://en.wikipedia.org/wiki/Computer_graphics](https://en.wikipedia.org/wiki/Computer_graphics)  
 
-[2] What is Computer Graphics: http://staff.ustc.edu.cn/~lgliu/Resources/CG/What_is_CG.htm  
+[2] What is Computer Graphics: [http://staff.ustc.edu.cn/~lgliu/Resources/CG/What_is_CG.htm](http://staff.ustc.edu.cn/~lgliu/Resources/CG/What_is_CG.htm)  
 
-[3] SIGGRAPH: http://www.siggraph.org/
+[3] SIGGRAPH: [http://www.siggraph.org/](http://www.siggraph.org/)
