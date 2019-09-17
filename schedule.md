@@ -4,6 +4,8 @@ title: Schedule
 permalink: /schedule/
 ---
 
+## Slides
+
 <table border="1px solid #000" cellpadding="10em" align="center">
   <tr>
     <th> Lecture </th>
