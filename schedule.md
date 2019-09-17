@@ -27,4 +27,9 @@ permalink: /schedule/
     <td> Brief Review of C++ </td>
     <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-03-Brief-Review-of-C++.pdf">CG-03-Brief-Review-of-C++.pdf</a> </td>
   </tr>
+  <tr>
+    <td> 4 </td>
+    <td> OpenGL Programming </td>
+    <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-04-OpenGL-Programming.pdf">CG-04-OpenGL-Programming.pdf</a> </td>
+  </tr>
 </table>
