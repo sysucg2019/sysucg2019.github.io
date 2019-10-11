@@ -4,6 +4,8 @@ title: Computer Graphics (Fall 2019)
 ---
 
 ## Announcements
+- [2019.10.11] Requirements of Assignment1 were modified on page [Assignment](https://sysucg2019.github.io/assignment).
+
 - [2019.10.09] Assignment1 was updated on page [Assignment](https://sysucg2019.github.io/assignment).
 
 - [2019.09.17] The Slide of Lecture4 was uploaded on page [Schedule](https://sysucg2019.github.io/schedule). 
