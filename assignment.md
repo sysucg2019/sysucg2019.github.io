@@ -11,7 +11,7 @@ permalink: /assignment/
 -  缓交作业：迟交作业不得分，但同学们可在作业截止前向TA：liuj285@mail2.sysu.edu.cn提出使用3天的slip days(包括周末节假日，且不适用于期末现场报告)，并在slip days结束前补交作业。
 
 ## 作业列表
-### 作业1 （2019.10.12 ~ 2019.11.3 23:59）
+### 作业1 （2019.10.12 ~ 2019.11.3 23:59）[Assignment1.pdf](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment1.pdf)
 ### 使用自行编写的代码重现场景
 
 在作业模板中的`scene_0()`函数使用了`OpenGL`函数（如，`glBegin(GL_LINE_STRIP)`，`glTranslatef()`及`glRotatef()`等）绘制一个三角形及一个四边形的场景。同学们需要在`不使用`以上函数的情况下重现同样场景（在模板中的`scene_1()`函数汇总实现）。
@@ -33,6 +33,11 @@ permalink: /assignment/
 - `scene_1()` 函数中已经提供一个基本模板，用于对每个坐标对应的像素点着色。  
 - `scene_0()` 及 `scene_1()` 的绘制可通过键盘的"0","1"按键进行切换。  
 - 在窗口resize过程中，需要保持 `scene_1()` 绘制结果与 `scene_0()` 一致。  
+
+#### 1.4 Qt相关链接
+Qt 5.13.0 下载：https://download.qt.io/official_releases/qt/5.13/5.13.0/  
+Qt镜像列表（exe for windows）：https://download.qt.io/archive/qt/5.13/5.13.0/qt-opensource-windows-x86-5.13.0.exe.mirrorlist  
+Qt .pro项目文件变量说明：https://doc.qt.io/qt-5/qmake-variable-reference.html
 
 ## 提交格式
 #### 请将你的作业发送至作业邮箱sysucg2019@163.com，邮件标题应与你的附件(.zip文件)名一致。你的压缩文件夹应有如下的组织形式：
