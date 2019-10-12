@@ -32,4 +32,19 @@ permalink: /schedule/
     <td> OpenGL Programming </td>
     <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-04-OpenGL-Programming.pdf">CG-04-OpenGL-Programming.pdf</a> </td>
   </tr>
+  <tr>
+    <td> 6 </td>
+    <td> Rasterization </td>
+    <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-06-Rasterization.pdf">CG-06-Rasterization.pdf</a></td>
+  </tr>
+  <tr>
+    <td> 7 </td>
+    <td> Transformation </td>
+    <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-07-Transformation.pdf">CG-07-Transformation.pdf</a></td>
+  </tr>
+   <tr>
+    <td> 8 </td>
+    <td> Viewing </td>
+    <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-08-Viewing.pdf">CG-08-Viewing.pdf</a></td>
+  </tr>
 </table>
