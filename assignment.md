@@ -35,9 +35,9 @@ permalink: /assignment/
 - 在窗口resize过程中，需要保持 `scene_1()` 绘制结果与 `scene_0()` 一致。  
 
 #### 1.4 Qt相关链接
-Qt 5.13.0 下载：https://download.qt.io/official_releases/qt/5.13/5.13.0/  
-Qt镜像列表（exe for windows）：https://download.qt.io/archive/qt/5.13/5.13.0/qt-opensource-windows-x86-5.13.0.exe.mirrorlist  
-Qt .pro项目文件变量说明：https://doc.qt.io/qt-5/qmake-variable-reference.html
+- Qt 5.13.0 下载：[https://download.qt.io/official_releases/qt/5.13/5.13.0/](https://download.qt.io/official_releases/qt/5.13/5.13.0/)  
+- Qt镜像列表（exe for windows）：[https://download.qt.io/archive/qt/5.13/5.13.0/qt-opensource-windows-x86-5.13.0.exe.mirrorlist](https://download.qt.io/archive/qt/5.13/5.13.0/qt-opensource-windows-x86-5.13.0.exe.mirrorlist)  
+- Qt .pro项目文件变量说明：[https://doc.qt.io/qt-5/qmake-variable-reference.html](https://doc.qt.io/qt-5/qmake-variable-reference.html)
 
 ## 提交格式
 #### 请将你的作业发送至作业邮箱sysucg2019@163.com，邮件标题应与你的附件(.zip文件)名一致。你的压缩文件夹应有如下的组织形式：
