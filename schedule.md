@@ -33,6 +33,11 @@ permalink: /schedule/
     <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-04-OpenGL-Programming.pdf">CG-04-OpenGL-Programming.pdf</a> </td>
   </tr>
   <tr>
+    <td> 5 </td>
+    <td> Redering Pipeline </td>
+    <td> <a href="https://github.com/liujinsysu/liujinsysu.github.io/raw/master/slides/CG-05-Rendering-Pipeline.pdf">CG-05-Rendering-Pipeline.pdf</a> </td>
+  </tr>
+  <tr>
     <td> 6 </td>
     <td> Rasterization </td>
     <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-06-Rasterization.pdf">CG-06-Rasterization.pdf</a></td>
