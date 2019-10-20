@@ -4,6 +4,8 @@ title: Computer Graphics (Fall 2019)
 ---
 
 ## Announcements
+- [2019.10.20] Slides of Lecture9 were uploaded on page [Schedule](https://sysucg2019.github.io/schedule). 
+
 - [2019.10.13] Document of [Assignment1](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment1.pdf) was uploaded on page [Assignment](https://sysucg2019.github.io/assignment). 
 
 - [2019.10.13] Slides of Lecture5~8 were uploaded on page [Schedule](https://sysucg2019.github.io/schedule). 
