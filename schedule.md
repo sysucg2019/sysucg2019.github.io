@@ -47,9 +47,14 @@ permalink: /schedule/
     <td> Transformation </td>
     <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-07-Transformation.pdf">CG-07-Transformation.pdf</a></td>
   </tr>
-   <tr>
+  <tr>
     <td> 8 </td>
     <td> Viewing </td>
     <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-08-Viewing.pdf">CG-08-Viewing.pdf</a></td>
+  </tr>
+  <tr>
+    <td> 9 </td>
+    <td> Lighting and Shading </td>
+    <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-09-Lighting-and-Shading.pdf">CG-09-Lighting-and-Shading.pdf</a></td>
   </tr>
 </table>
