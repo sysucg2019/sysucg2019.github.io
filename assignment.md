@@ -5,13 +5,40 @@ permalink: /assignment/
 ---
 
 ## 作业说明
--  每次作业统一使用QT模板<a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/CGTemplate.zip">CGTemplate</a>。
 -  评分细则：完成度及正确性(50%) + 编程规范(20%) + 书面报告(30%)。编程规范见<a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-01-Introduction.pdf">CG-01-Introduction.pdf</a>。
 -  允许讨论代码，但作业代码和报告的编写和提交应独立完成。严禁任何形式的抄袭，否则将无法通过本课程。
 -  缓交作业：迟交作业不得分，但同学们可在作业截止前向TA：liuj285@mail2.sysu.edu.cn提出使用3天的slip days(包括周末节假日，且不适用于期末现场报告)，并在slip days结束前补交作业。
 
 ## 作业列表
-### 作业1 （2019.10.12 ~ 2019.11.3 23:59）[Assignment1.pdf](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment1.pdf)
+### 作业2 （2019.11.18 ~ 2019.12.8 23:59）[Assignment2.pdf](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment2.pdf)  [作业2模板-CGTemplate2.zip](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/CGTemplate2.zip)
+### 绘制一个沿固定线路运动的机器人
+
+绘制过程中使用的平移、旋转函数请使用你在作业1中实现的函数，或另行实现，不能使用`glTranslate()`, `glRotate()`, `glMultMatrix()`等函数。
+
+#### 2.1 绘制你的机器人
+-  使用GL_POINTS, GL_TRIANGLES, GL_QUADS, GL_POLYGON等基本图元，结合平移、旋转函数绘制一个机器人。
+-  机器人应该有头、躯干、四肢等基本部分。
+
+#### 2.2 绘制机器人的运动线路
+-  使用平移、旋转函数使你的机器人沿固定线路运动。
+-  线路可以是圆或任意其他闭合路径。
+
+#### 2.3 绘制机器人的动作
+-  使用平移、旋转函数绘制机器人的动作。
+-  机器人在运动过程中应具有摆臂及抬腿两个基本动作。
+
+#### 2.4 （选做）加分项-模型载入
+-  使用mesh模型（如obj文件）载入机器人模型。
+-  或载入其他mesh模型围绕机器人运动。
+
+#### 2.5 其他注意事项
+-  编程规范：编程规范包括规范的函数及变量命名、函数的注释说明及其他重要语句的注释说明，编程规范见<a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-01-Introduction.pdf">CG-01-Introduction.pdf</a>。
+-  报告内容：在报告中写下主要算法，详细说明实现过程，并附上每个步骤的运行结果截图；总结实现过程遇到的困难及相应的解决方法。
+-  作业提交：不规范的作业附件命名可能影响作业的提交，请务必严格按照提交格式命名。
+
+----
+
+### 作业1 （2019.10.12 ~ 2019.11.3 23:59）[Assignment1.pdf](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment1.pdf)  [作业1模板-CGTemplate.zip](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/CGTemplate.zip)
 ### 使用自行编写的代码重现场景
 
 在作业模板中的`scene_0()`函数使用了`OpenGL`函数（如，`glBegin(GL_LINE_STRIP)`，`glTranslatef()`及`glRotatef()`等）绘制一个三角形及一个四边形的场景。同学们需要在`不使用`以上函数的情况下重现同样场景（在模板中的`scene_1()`函数汇总实现）。
