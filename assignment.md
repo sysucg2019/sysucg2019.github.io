@@ -13,7 +13,8 @@ permalink: /assignment/
 ### 作业2 （2019.11.18 ~ 2019.12.8 23:59）[Assignment2.pdf](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment2.pdf)  [作业2模板-CGTemplate2.zip](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/CGTemplate2.zip)
 ### 绘制一个沿固定线路运动的机器人
 
-绘制过程中使用的平移、旋转函数请使用你在作业1中实现的函数，或另行实现，不能使用`glTranslate()`, `glRotate()`, `glMultMatrix()`等函数。
+~~绘制过程中使用的平移、旋转函数请使用你在作业1中实现的函数，或另行实现，不能使用`glTranslate()`, `glRotate()`, `glMultMatrix()`等函数。~~
+现在你可以使用`glTranslate()`、`glRotate()`, `glMultMatrix()`等函数。
 
 #### 2.1 绘制你的机器人
 -  使用GL_POINTS, GL_TRIANGLES, GL_QUADS, GL_POLYGON等基本图元，结合平移、旋转函数绘制一个机器人。
