@@ -67,5 +67,12 @@ permalink: /schedule/
     <td> Texture </td>
     <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-11-Texture.pdf">CG-11-Texture.pdf</a></td>
   </tr>
+  </tr>
+    <tr>
+    <td> 12 </td>
+    <td> Shadow and Global Illumination </td>
+    <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-12.pdf">CG-12-Shadow-and-Global-Illumination.pdf</a></td>
+  </tr>
 </table>
 
+https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-12.pdf
