@@ -4,6 +4,8 @@ title: Computer Graphics (Fall 2019)
 ---
 
 ## Announcements
+- [2019.12.01] The Slide of Lecture12 was uploaded on page [Schedule](https://sysucg2019.github.io/schedule). 
+
 #### ● [2019.11.24] 更新了[作业二](https://sysucg2019.github.io/assignment)的要求。现在作业中的平移、旋转可以使用glTranslate(), glRotate()等函数。
 
 - [2019.11.20] Assignment2 was updated on page [Assignment](https://sysucg2019.github.io/assignment).
