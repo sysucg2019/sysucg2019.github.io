@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Transcript 
-permalink: /transcript/
+title: Grade 
+permalink: /grade/
 ---
 
 ### 作业编号将于近两日内通过作业邮箱陆续发送给同学们。
