@@ -21,4 +21,4 @@ navigation:
   - {name: 'About', link: '/about'}
   - {name: 'Schedule', link: '/schedule'}
   - {name: 'Assignment', link: '/assignment'}
-  - {name: 'Transcript', link: '/transcript'}
+  - {name: 'Grade', link: '/grade'}
