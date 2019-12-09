@@ -72,5 +72,10 @@ permalink: /schedule/
     <td> Shadow and Global Illumination </td>
     <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-12.pdf">CG-12-Shadow-and-Global-Illumination.pdf</a></td>
   </tr>
+    <tr>
+    <td> 13 </td>
+    <td> Curves and Surfaces </td>
+    <td> <a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-13-Curves-and-Surfaces.pdf">CG-13-Curves-and-Surfaces.pdf</a></td>
+  </tr>
 </table>
 
