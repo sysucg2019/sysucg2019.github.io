@@ -10,6 +10,26 @@ permalink: /assignment/
 -  缓交作业：迟交作业不得分，但同学们可在作业截止前向TA：liuj285@mail2.sysu.edu.cn提出使用3天的slip days(包括周末节假日，且不适用于期末现场报告)，并在slip days结束前补交作业。
 
 ## 作业列表
+### 作业3 （2019.12.09 ~ 2020.01.04 23:59）[Assignment3.pdf](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment3.pdf)  [作业3模板-CGTemplate3.zip](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/CGTemplate3.zip)
+### GLSL入门
+参考作业文档，编写GLSL着色器程序，绘制沿固定轨道运动的小球。
+
+#### 3.1 使用GL_POINTS绘制沿固定轨道运动的小球
+-  每个glVertex调用指明一个小球的球心位置。
+-  小球大小根据离观察点距离变化（近大远小）。
+-  使用Phong Shading。
+-  参考[Assignment3.pdf第9页](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment3.pdf)的Vertex Shader和Fragment Shader。 
+
+#### 3.2 （选做）使用VBO进行绘制
+-  参考[Assignment3.pdf第10页](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment3.pdf) 的绘制函数。
+
+#### 3.3 其他注意事项
+-  编程规范：编程规范包括规范的函数及变量命名、函数的注释说明及其他重要语句的注释说明，编程规范见<a href="https://github.com/sysucg2019/sysucg2019.github.io/raw/master/slides/CG-01-Introduction.pdf">CG-01-Introduction.pdf</a>。
+-  报告内容：在报告中写下主要算法，详细说明实现过程，并附上每个步骤的运行结果截图；总结实现过程遇到的困难及相应的解决方法。
+-  作业提交：不规范的作业附件命名可能影响作业的提交，请务必严格按照提交格式命名。
+
+----
+
 ### 作业2 （2019.11.18 ~ 2019.12.8 23:59）[Assignment2.pdf](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment2.pdf)  [作业2模板-CGTemplate2.zip](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/CGTemplate2.zip)
 ### 绘制一个沿固定线路运动的机器人
 
