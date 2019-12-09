@@ -4,6 +4,8 @@ title: Computer Graphics (Fall 2019)
 ---
 
 ## Announcements
+- [2019.12.09] The Slide of Lecture13 was uploaded on page [Schedule](https://sysucg2019.github.io/schedule). 
+
 - [2019.12.02] Grades were uploaded on page [Grade](https://sysucg2019.github.io/grade). 
 
 - [2019.12.01] The Slide of Lecture12 was uploaded on page [Schedule](https://sysucg2019.github.io/schedule). 
