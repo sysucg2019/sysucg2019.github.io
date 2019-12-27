@@ -4,6 +4,8 @@ title: Computer Graphics (Fall 2019)
 ---
 
 ## Announcements
+#### ● [2019.12.27] 重要通知：[Assignment](https://sysucg2019.github.io/assignment)中更新了期末大作业的提交要求。
+
 - [2019.12.18] 在[Grade](https://sysucg2019.github.io/grade)页面公布了期中小测成绩.
 
 #### ● [2019.12.09] 重要通知：期末作业展示时间为12月30日，请各小组于12月28日23：59前将大作业发送至作业邮箱。
