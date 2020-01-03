@@ -4,6 +4,7 @@ title: Computer Graphics (Fall 2019)
 ---
 
 ## Announcements
+#### ● [2020.01.03] 重要通知：作业3截止时间延期至1月8日23:59，延期后如仍需使用slip days，请重新向助教申请。
 #### ● [2019.12.27] 重要通知：[Assignment](https://sysucg2019.github.io/assignment)中更新了期末大作业的提交要求。
 
 - [2019.12.18] 在[Grade](https://sysucg2019.github.io/grade)页面公布了期中小测成绩.
