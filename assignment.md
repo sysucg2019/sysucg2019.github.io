@@ -41,7 +41,7 @@ permalink: /assignment/
 
 ----
 
-### 作业3 （2019.12.09 ~ 2020.01.04 23:59）[Assignment3.pdf](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment3.pdf)  [作业3模板-CGTemplate3.zip](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/CGTemplate3.zip)
+### 作业3 （2019.12.09 ~ ~~2020.01.04 23:59~~ 2020.01.08 23:59）[Assignment3.pdf](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/Assignment3.pdf)  [作业3模板-CGTemplate3.zip](https://github.com/sysucg2019/sysucg2019.github.io/raw/master/CGTemplate3.zip)
 ### GLSL入门
 参考作业文档，编写GLSL着色器程序，绘制沿固定轨道运动的小球。
 
